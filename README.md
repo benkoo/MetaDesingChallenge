@@ -41,7 +41,7 @@ This Design Challenge is to help a wider population to benefit from existing ICT
 
 
 # Contact
-Please leave comments in the project [wiki].
+Please leave comments in the project wiki: https://github.com/benkoo/MetaDesingChallenge/wiki.
 
 # License
 Meta Design Challenge is released under the [LGPL-V3 license](LICENSE).
