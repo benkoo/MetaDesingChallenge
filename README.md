@@ -12,7 +12,7 @@ The immediate participants would include teams and individuals who are willing t
 
 ## Initial Participants
 
-TSEA intend to to invite the following organizations and individuals to participate in the Design Challenge. Initially, United In Diversity Foundation, KempBali, and Council on Extended Intelligence (CXI), independent entrepreneurs, university students and faculty members are all invited to participate in the any of the three stages of activities. The expected roles of the first three invited institutions is listed here:
+TSEA **_intends to to invite_** the following organizations and individuals to participate in the Design Challenge. Initially, United In Diversity Foundation, KempBali, and Council on Extended Intelligence (CXI), independent entrepreneurs, university students and faculty members are all invited to participate in the any of the three stages of activities. The expected roles of the first three invited institutions is listed here:
 
 1. United in Diversity Foundation will be responsible of providing administrative personnel, initial funding, and other operational basis of kicking off the three stages of activities. 
 
