@@ -28,23 +28,14 @@ The other participants include major university participants, such as Tsinghua U
 
 The proposed program will be conducted as a continuous online activity starting in December 2020. Then, it will choose a few critical dates to run in-person and online workshop to bring participants into the data platform of collaboration. The goal is to elevate the digital competence/literacy of a wide range of Talents, Technology Suppliers, and Territorial Resource Operators. They should all be using existing and popularly practiced data exchange/collaboration tools, such as Git/Github/Gitlab services, as well as open source  or free-of-charge project management tools, such as Phabricator and Asana. The goal is to enable a large population to be competent in organizing and exchanging resources using the already ubiquitous mobile and cloud-based computing resources. The program will demonstrate the benefits of using existing and low cost collaboration tool to alleviate imminent social pressures such as food distribution and work opportunities. By enhancing the digital collaboration skills of a wide range of workers, going beyond Information Technology professionals, who are already familiar with working at home or remote collaboration, this program intend to enable a larger population to be competent in delivering their values through online and digital collaboration processes. The program has the following three major milestones.
 
-1. January 1st, 2021, a Meta-Constitutional Framework written and published on Github in a publicly accessible format, so that it allows other organizations to participate in designing or refining different versions of engagement rules.
+  1. During January of 2021, two 2-day events that are separated by one or two work week should be conducted at multiple locations around Bali, Indonesia, and other collaborating locations. These small hackthon/writathon-like events will serve as educational workshops for helping participants of any ICT skill levels to start using the proposed project management tools. The measuring metrics includes but not limited to :
+  1. Enabling participants to install and operate Git to share data asset amongst their team members.
+   1. Install and operate project management tools, such as Phabricator/Asana, on their laptop and mobile devices. This will enable participants in mobile locations to upload and observe the progress of all relevant activities.
+   1. Understand and agree to a set of project performance metrics. Participants will learn to read simple diagrams, such as project completion charts, Gantt charts (project dependency charts), and other forms of project-level performance metrics info-graphics. The goal is to enable participants to become cognitively aware of tools and the information presented in these online tools could help them measure and monitor the overall progress of the projects they participated.
+   1. Conduct simple surveys of participants, and measuring whether they have perceived productivity increase or decrease. 
+   1. Propose a second wave project management learning event.
 
-2. During January of 2021, two 2-day events that are separated by one or two work week should be conducted at multiple locations around Bali, Indonesia, and other collaborating locations. These small hackthon/writathon-like events will serve as educational workshops for helping participants of any ICT skill levels to start using the proposed project management tools. The measuring metrics includes but not limited to :
-
-  -2.a Enabling participants to install and operate Git to share data asset amongst their team members.
-  -2.b Install and operate project management tools, such as Phabricator/Asana, on their laptop and mobile devices. This will enable participants in mobile locations to upload and observe the progress of all relevant activities.
-  -2.c Understand and agree to a set of project performance metrics. Participants will learn to read simple diagrams, such as project completion charts, Gantt charts (project dependency charts), and other forms of project-level performance metrics info-graphics. The goal is to enable participants to become cognitively aware of tools and the information presented in these online tools could help them measure and monitor the overall progress of the projects they participated.
-  -2.d Conduct simple surveys of participants, and measuring whether they have perceived productivity increase or decrease. 
-  -2.e Propose a second wave project management learning event.
-  
-  1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
-3. Early February 2021, a new version of Meta-Constitutional Framework to be published on Github, and invite the next round of activities.
+Early February 2021, a new version of Meta-Constitutional Framework to be published on Github, and invite the next round of activities.
 
 ## Summary
 
