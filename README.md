@@ -34,8 +34,7 @@ The proposed program will be conducted as a continuous online activity starting 
    1. Understand and agree to a set of project performance metrics. Participants will learn to read simple diagrams, such as project completion charts, Gantt charts (project dependency charts), and other forms of project-level performance metrics info-graphics. The goal is to enable participants to become cognitively aware of tools and the information presented in these online tools could help them measure and monitor the overall progress of the projects they participated.
    1. Conduct simple surveys of participants, and measuring whether they have perceived productivity increase or decrease. 
    1. Propose a second wave project management learning event.
-
-Early February 2021, a new version of Meta-Constitutional Framework to be published on Github, and invite the next round of activities.
+1. Early February 2021, a new version of Meta-Constitutional Framework to be published on Github, and invite the next round of activities.
 
 ## Summary
 
