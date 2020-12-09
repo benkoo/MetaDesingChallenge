@@ -45,6 +45,9 @@ The proposed program will be conducted as a continuous online activity starting 
 
 This Design Challenge is to help a wider population to benefit from existing ICT-enabled infrastructures through utilizing Online Project Management practices and tools.  The productivity of modern workforce, and the efficiency of Supply Chain management can be improved through educational programs that is adapted to a wider range of audience. By putting Online Project Management tools into the hands of a pragmatic operational context, such as having food supply chain managers to work with farmers and delivery people, many imminent social challenges could be alleviated with minimum technology and knowledge infusion. The same principle can be applied to many other areas of global supply chain. The key point of the design challenge is to offer a generic project management platform to enable better observability of human and organizational participation. The potential of this Design Challenge can only be realized through authentic operational programs, such as the coordination of physical, information, and knowledge supply chains on a global level. A significant amount of the interactions of these supply chains/networks can already be conducted using existing tools and methods, the first phase of this program is to use online and offline workshops/hackathons to stimulate interests as well as opening up the awareness of online project management tools.
 
+# References
+
+https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
 
 # Contact
 Please leave comments in the project wiki: https://github.com/benkoo/MetaDesingChallenge/wiki.
