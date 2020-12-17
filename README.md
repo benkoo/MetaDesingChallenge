@@ -5,10 +5,10 @@
 In view of the global pandemic continues to interfere with social activities on a global level, and data-driven infrastructure becoming ever more ubiquitous, the world is yearning for a major reorganization of vertical and horizontal supply chain integration through existing ICT (Information and Communication Technologies) infrastructures. Opportunities in supply chain integration comes in three aspects, Talent Integration (TI), Technology Infrastructure Integration(TII), and Territorial Resource Integration (RI). To kickoff the process of Supply Chain Integration at a global scale, Tsinghua South East Asia (T-SEA) Center, located in Bali, Indonesia, plans to invite individuals and institutions around the world to participate in this global exercise. 
 
 ## Goal
-The goal of creating an open-ended design challenge focused on Project Management is to enable a self-adaptive mechanism to achieve the following three sub-goals:
-1. Participatory Design: Supported by scalable project management platforms while minimizing the barriers to entries in terms of cost to operate the project management tools and learning curves.
-1. Data Agency: A platform that enables software and data reuse without sacrificing privacy.
-1. Universal Performance Metrics: Provide a computable rule base to assess various aspects of project performance with concrete and standardized data, so that the metrics of project performance would make sense to all parties.
+The goal of this open-ended design challenge focused on Project Management is to disseminate knowledge about data-intensive social collaboration. It can be further explained in the following three sub-goals:
+1. Formalize Participatory Design: Supported by scalable project management platforms while minimizing the barriers to entries in terms of cost to operate the project management tools and learning curves.
+1. Trustworthy Data Agency: A platform that enables software and data reuse without sacrificing privacy.
+1. Offer Universal Performance Metrics: Provide a computable rule base to assess various aspects of project performance with concrete and standardized data, so that the metrics of project performance would make sense to all parties.
 
 ## Proposed Activity
 The immediate participants would include teams and individuals who are willing to conduct work in the following three stages:
