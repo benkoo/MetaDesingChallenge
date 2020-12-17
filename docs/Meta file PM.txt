@@ -1,0 +1,168 @@
+
+
+
+IT
+	software
+		CRM
+		SaaS
+		Mobile app
+		Framework
+		Consulting
+		security		
+	hardware
+		Computers
+		Robotics
+		Engines
+		heavy machinery
+		stereos & equipments
+	gaming
+		Hardcore Console & PC
+		Midcore Mobile
+		Casual mobile
+		Casual multiplayer
+		Augment reality
+		VR
+	paper study
+		development
+		security
+		SaaS
+		IaaS
+		Networks		
+
+
+Arch & Construction
+	Buildings
+		Villa
+		Allotment
+		residenciais
+		Gated community
+		Comercial Facility
+			Mall or Shopping
+			Enterprise skyscrapper
+			Enterprise 8-16 floors
+			Mix offices, commerce & residential 
+			Small companies
+		Public Facility	
+			School
+			Public Hospital
+			Private Hospital
+			Museum
+			Military
+			Damn or energy plants
+		Industry
+			Plants
+			Feedstock and commodities transformation
+			textiles and shoes
+			Heavy machinery		
+	Urban Planning
+		City planning design 
+		ongoing plan
+		Green Park
+		Theme Park
+		Neighborhood refurbishment
+	Obj design 
+		Catering supply 
+		Industry
+		Sports
+		Technology
+		Vehicles and aeronautics
+		Furniture
+	Construction
+		Villa
+		Allotment
+		residenciais
+		Gated community
+		Comercial Facility
+			Mall or Shopping
+			Enterprise skyscrapper
+			Enterprise 8-16 floors
+			Mix offices, commerce & residential 
+			Small companies
+		Public Facility	
+			School
+			Public Hospital
+			Private Hospital
+			Museum
+			Military
+			Damn or energy plants
+		Industry
+			Plants
+			Feedstock and commodities transformation
+			textiles and shoes
+			Heavy machinery	
+	
+Research & Lefc
+	Paper
+		based own research
+		Academic paper
+	Pharma
+		New product
+		Improving product
+		Manage product(s)
+	Activity board plan
+		School year program
+		Research year program
+		Department year program
+		Facility year program
+	Constructions
+		Materials
+		Processes
+	Services
+		Congresses
+		Conferences
+		Overheads
+		Fund requests
+		Programs plan
+	Seminars
+		Planing program presentations 
+		Planing portfolio presentations
+		Attending series of seminars
+		Training courses
+
+Management
+	Activity board plan
+		Facility year services
+		Department projects overheads
+		Company external activities
+	Internal Study
+		Methods and processes implementation
+		Earns, Losses and Expenses
+		Market research
+		Benchmarking
+	Services
+		Motivation activities
+		Methods implementation
+	Products
+		Launch to market
+		Innovation process
+		Create a product
+
+Finance & Surveys
+	Services
+		Manage clients packages
+	Insurances
+		Manage clients packages
+	General Surveys
+		Manage clients packages
+	Risk Surveys
+		Manage clients packages
+	Real estate surveys
+		Manage clients packages
+
+Industry
+	Product
+		Launch to market
+		Innovation process
+		Create a product
+	Prototype
+		Launch to market
+		Innovation process
+		Create a product
+	Production Method
+		Launch to market
+		Innovation process
+		Create a product
+
+
+
+
