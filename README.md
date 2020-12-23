@@ -2,7 +2,7 @@
 ## Empowering Distributed local communities Globally through Literacy in Online Project Management Methods and Tools
 
 ## Background
-In view of the global pandemic continues to interfere with social activities on a global level, and data-driven infrastructure becoming ever more ubiquitous, the world is yearning for a major reorganization of vertical and horizontal supply chain integration through existing ICT (Information and Communication Technologies) infrastructures. Opportunities in supply chain integration comes in three aspects, Talent Integration (TI), Technology Infrastructure Integration(TII), and Territorial Resource Integration (RI). To kickoff the process of Supply Chain Integration at a global scale, Tsinghua South East Asia (T-SEA) Center, located in Bali, Indonesia, plans to invite individuals and institutions around the world to participate in this global exercise. 
+In view of the global pandemic continues to interfere with social activities on a global level, and data-driven human activities becoming ever more ubiquitous, the world is adapting existing, yet under utilized ICT infrastrutures to cope with this unprecedented challenge in supply chain dynamics. Opportunities to better integrate resources in global supply chain integration comes in three aspects, Talent Integration (TI), Technology Infrastructure Integration(TII), and Territorial Resource Integration (RI). In order to introduce systematic approaches to regulate Supply Chain Integration at a global scale, This proposed Meta Design Challenge (MDC), plans to invite individuals and institutions around the world to participate in this global exercise. 
 
 ## Goal
 The goal of this open-ended design challenge focused on Project Management is to disseminate knowledge about data-intensive social collaboration. It can be further explained in the following three sub-goals:
@@ -18,7 +18,7 @@ The immediate participants would include teams and individuals who are willing t
 
 ## Initial Participants
 
-TSEA **_intends to to invite_** the following organizations and individuals to participate in the Design Challenge. Initially, United In Diversity Foundation, KempBali, and Council on Extended Intelligence (CXI), independent entrepreneurs, university students and faculty members are all invited to participate in the any of the three stages of activities. The expected roles of the first three invited institutions is listed here:
+This MDC **_intends to to invite_** the following organizations and individuals to participate in the Design Challenge. Initially, United In Diversity Foundation, KempBali, and Council on Extended Intelligence (CXI), independent entrepreneurs, university students and faculty members are all invited to participate in the any of the three stages of activities. The expected roles of the first three invited institutions is listed here:
 
 1. United in Diversity Foundation will be responsible of providing administrative personnel, initial funding, and other operational basis of kicking off the three stages of activities. 
 
