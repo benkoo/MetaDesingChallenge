@@ -6,9 +6,9 @@ In view of the global pandemic continues to interfere with social activities on 
 
 ## Goal
 The goal of this open-ended design challenge focused on Project Management is to disseminate knowledge about data-intensive social collaboration. It can be further explained in the following three sub-goals:
-1. Formalize Participatory Design: Supported by scalable project management platforms while minimizing the barriers to entries in terms of cost to operate the project management tools and learning curves.
-1. Trustworthy Data Agency: A platform that enables software and data reuse without sacrificing privacy.
-1. Offer Universal Performance Metrics: Provide a computable rule base to assess various aspects of project performance with concrete and standardized data, so that the metrics of project performance would make sense to all parties.
+1. Formalize Participatory Design: Supported by scalable project management platforms while minimizing the barriers to entries in terms of cost to operate the project management tools and learning curves. Concretely, this means that project participants with less exposure to ICT knowledge, and eventually non-English native users should still have reasonably convenient access to digital assets in the project workflow. 
+1. Trustworthy Data Agency: A platform that enables software and data reuse without sacrificing privacy. From a concrete operational viewpoint, this means the project management platform should subscribe to a open-source, even free source technical architecture principles, so that project participants with different level of economic status can all enjoy similar level of privatized data asset management services. All project members should be provided with a similar level of data protection and data asset mobilization rights and responsibilities.
+1. Offer Universal Performance Metrics: Provide a computable rule base to assess various aspects of project performance with concrete and standardized data, so that the metrics of project performance would make sense to all parties. Operationally, this means that project participants will all be sharing a set of commonly known performance metrics to help distinguish their levels of contribution. In case certain disbute arises, the resolution should focus on the nature of rules, so that the disbute resolution can be shared by future projects.
 
 ## Proposed Activity
 The immediate participants would include teams and individuals who are willing to conduct work in the following three stages:
