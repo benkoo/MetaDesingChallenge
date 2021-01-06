@@ -1,0 +1,35 @@
+
+
+Meta challenge has 3 milestones specific:
+
+1 - Creation of Meta information and high level templates draft for project management
+2 - Test in lab or real scenarios doing prototypes or short projects, studying metrics, performance and 
+3 - Build several products around a "project management put to practice" including a templates generator (API) so that the templates can be imported to several other softwares of project management
+
+
+
+The Scope consists on:
+1- Creation of project management templates library, tested on lab or real scenarios, with the purpose to be used freely around the world by multiple platforms such as Jira, MSproject, Asana, monday.com, redmine or workfront. This templates will gather not only the WBS (work breakdown structure) of the project plan, but also the estimations and risks and time to completion and fully tested.
+2 - Learn more about project management standards in order to earn more development discipline by doing short but complex projects and measure the performance 
+3 - Creation of spin-offs products prototypes that can be taken later into the research center and 
+raise capital creating value in the region and attract several other stakeholders from all over the world
+
+examples of value creation (possible spin-offs):
+1 - GeekyGIT prototype 
+2 - PMO digital (consultancy on web servers, BA and PMP) 
+
+
+Sponsorship support:
+The program can bring great value to the region, however, for much low cost by universities support and by using online processes, it will require investment so milestone 3 occur with great success. 
+
+
+
+
+List of Stakeholders types:
+Organizers, partners, contributors, sponsors, participants, viewers, juri, reviewers
+
+
+
+
+
+
