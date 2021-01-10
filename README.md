@@ -18,11 +18,9 @@ The immediate participants would include teams and individuals who are willing t
 
 ## Initial Participants
 
-This MDC **_intends to to invite_** the following organizations and individuals to participate in the Design Challenge. The overall program is organized by Tsinghua South East Asia Center (TSEA), a Post-Graduate Research/Educational Institution based in Bali, Indonesia. The founding members of MDC includes: United In Diversity Foundation, Council on Extended Intelligence (CXI), and Piaget Institute. We also welcome independent entrepreneurs, university students and faculty members are all invited to participate in the any of the three stages of activities. The expected roles of the first few invited institutions are listed here:
+This MDC **_intends to to invite_** the following organizations and individuals to participate in the Design Challenge. The overall program is organized by United in Diversity Foundation (UID). The founding members of MDC includes: United In Diversity Foundation, Council on Extended Intelligence (CXI), and Piaget Institute. We also welcome independent entrepreneurs, university students and faculty members are all invited to participate in the any of the three stages of activities. The expected roles of the first few invited institutions are listed here:
 
 1. United in Diversity Foundation will be responsible of providing administrative personnel, initial funding, and other operational basis of kicking off the three stages of activities. 
-
-1. Tsinghua University South East Asian Center will be providing personnel, intellectual guideline, technology infusion, and instructive personnel to help organize and execute the events.
 
 1. Council on Extended Intelligence, a global brain trust organization, co-founded by MIT and IEEE, that will provide the advise and intellectual vision for how to shape the participative design activities, data agency governance, and  ongoing refinement of metric-collection, performance diagnose practices.
 
