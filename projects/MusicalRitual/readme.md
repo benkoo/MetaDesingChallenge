@@ -2,19 +2,20 @@ Notes – Ben & Marina _ January 12, MMXXI
 
 
 
-A     Building blocks – Ben’s work in Bali
+#    Building blocks – Ben’s work in Bali
 
 1.	Food production
 2.	Communication 
 3.	Education
 
-B    Humanity - Second Renaissance 
-1.	new currency – beauty – trust – mutual respect & dignity 
+#    Humanity - Second Renaissance 
+1.	Digital Publishing Workflow: new currency – beauty – trust – mutual respect & dignity 
+
 
 In this nurtured environment – Wisdom flows. Meaning expands. Imagination and newness multiply. Freedom grows. Healing happens. Goodness becomes contagious.
 
 
-C     Ben & Marina – intellectual architecture 
+#     Ben & Marina – intellectual architecture 
 1.	Sonic Roads and Bridges – guiding thoughts – art of listening; art of teaching and learning; Individual authority over data sharing, access, and storage
 
 2.	Creating Teams – high level thinkers –who have a clear mission and the potential to go through uncomfortable and adapt to solve the problem
