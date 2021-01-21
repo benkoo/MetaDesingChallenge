@@ -28,7 +28,7 @@ The expected roles of the first few invited institutions are listed here:
 
 1. Piaget Institute’s Project Management team is rolling out an online project management educational program in 2021. This team will provide expertise and educational assistance to help all participants to better utilize existing project management techniques and tools.
 
-Other participants include Tsinghua University and other major universities, as well as other educational institutions around the world.  They will provide expertise and talent pools to conduct project management, and share skills and knowledge. 
+Many educational institutions, universities, high schools around the world are working with us. As time goes, their contributions will be reflected through Git's records and they will provide expertise and talent pools to conduct project management, and share skills and knowledge. 
 
 Also involved are local entrepreneurs in Bali, Indonesia, who are practicing data-driven food supply chain integration efforts to alleviate social impact during Covid-19.  They will be amongst the initial trial members to test the waters. 
 
