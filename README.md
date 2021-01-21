@@ -18,7 +18,7 @@ The participants include teams and individuals wanting to do the following activ
 
 ## Initial Participants
 
-The first Meta Design Challenges are organized by a number of individuals and insitutions around the world.  The founding member organizations include: United In Diversity Foundation, Council on Extended Intelligence ((CXI – a global brain trust organization, co-founded by MIT and IEEE), and Piaget Institute.  Any individuals are organizations are also welcome to participate in any of the above three activities. 
+The first Meta Design Challenges are organized by a number of individuals and insitutions around the world.  The founding member organizations include: United In Diversity Foundation, Council on Extended Intelligence (CXI – a global brain trust organization, co-founded by MIT and IEEE), and Piaget Institute.  Any individuals are organizations are also welcome to participate in any of the above three activities. 
 
 The expected roles of the first few invited institutions are listed here:
 
