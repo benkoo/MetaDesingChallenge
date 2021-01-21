@@ -18,13 +18,11 @@ The participants include teams and individuals wanting to do the following activ
 
 ## Initial Participants
 
-The first Meta Design Challenges are organized by Tsinghua South East Asia Center (TSEA), a Post-Graduate Research/Educational Institution based in Bali, Indonesia.  The founding member organizations include: United In Diversity Foundation, Council on Extended Intelligence ((CXI – a global brain trust organization, co-founded by MIT and IEEE), and Piaget Institute.  Also welcome to participate in any of the above three activities are: independent entrepreneurs, university students, and university faculty members. 
+The first Meta Design Challenges are organized by a number of individuals and insitutions around the world.  The founding member organizations include: United In Diversity Foundation, Council on Extended Intelligence ((CXI – a global brain trust organization, co-founded by MIT and IEEE), and Piaget Institute.  Any individuals are organizations are also welcome to participate in any of the above three activities. 
 
 The expected roles of the first few invited institutions are listed here:
 
 1. United in Diversity Foundation will be responsible of providing administrative personnel, initial funding, and operations for kicking off the above three listed activities. 
-
-1. Tsinghua South East Asian Center (TSEA) will be providing personnel, intellectual guidelines, technology infusion, and instructional personnel to help organize and execute the events.
 
 1. Council on Extended Intelligence (CXI) will provide advice and intellectual vision for shaping the participative design activities, data security and safety, ongoing refinement of performance and evaluation practices.
 
