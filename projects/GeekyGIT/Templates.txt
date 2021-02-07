@@ -1,0 +1,43 @@
+This document consist in several templates examples for Projects Metadata (WBS - WorkBreakdown structures of projects)
+
+
+
+
+
+1 - Template Plan to create the documentation of an independent component for a SaaS 
+
+// Create an application is not only about writing functions, webservices todays are much more about multiple function programming, as the languages like JSX (React Hooks) are evolving.
+// A clear concise on documentation helps to better strategy on algorithm definition
+// typical documentation normally forgets most of the requirements like behaviors, validations or relations along the app. It's important to follow a constant logical path so that the dev team can understand all the process before stating to write first line of code
+
+
+Summary
+Rules
+Relations // Where does it comes and where to go the data
+Validations // Is it what? text? alphanumerical, dropdown? how many characters
+	input size
+	input feedback - say that is wrong (maybe an icon of error like bad equations on excel)
+	type of input
+	find generic errors for errors from servers (delete line on amin table but there was an error on server)
+	invalid conditions
+	resources that are not existing
+		500
+		503 - server is off
+		504 - page not exist
+		422 - project doesn’t exist, resource doesn’t exist anymore
+		404 - resources that expired
+Behaviors // Mouse pointers, dropdowns, animations types, “hovering, edit delete and selects”, scrolling
+	// Fonts behavior and coloring
+	// Keyboard behavior, mouse behavior, touch behavior
+	// Approvals, logs, workflow of processing , rules, filters and fallbacks
+Expands and collapses
+Preferences and constructors // customization
+Adaptive & responsive // How does it fit in several screen sizes (scales and proportions - pixels and %), define breakpoints, design pattern, hierarchies 
+UI integration // how does it fit the component into the UI - visually
+Dark mode // how does it look in dark mode version?
+Patterns relations // What is in this package that is add or can be add to a pattern (repeated and replicated action, ability to iterate or reproduce in other components)
+States // when user don’t have permissions to edit, the states change, the visual also is different 
+    	// examples 1. Selected - This is the styling applied when the item is selected, no  matter what
+		//  2. Hover 
+		//  3. Disabled - When the item cannot be selected, hovered or any other interactive action
+		//  4. Read-only
